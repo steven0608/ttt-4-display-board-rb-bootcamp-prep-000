@@ -10,4 +10,3 @@ puts row[3]
 puts row[4]
 end
 display_board(board)
-
