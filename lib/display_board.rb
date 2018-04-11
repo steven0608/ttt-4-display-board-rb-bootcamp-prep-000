@@ -10,3 +10,6 @@ puts row[3]
 puts row[4]
 end
 display_board(board)
+
+board=[]
+display_board(board)
