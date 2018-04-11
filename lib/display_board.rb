@@ -11,5 +11,5 @@ puts row[4]
 end
 display_board(board)
 
-board=[]
+board=["   ","   ","   "]
 display_board(board)
